@@ -1,0 +1,22 @@
+{
+  "movies_parsed": 2000,
+  "movie_detail_pages": 2000,
+  "html_pages": 2017,
+  "category_pages": 10,
+  "category_counts": {
+    "category-01": 200,
+    "category-02": 200,
+    "category-03": 200,
+    "category-04": 200,
+    "category-05": 200,
+    "category-06": 200,
+    "category-07": 200,
+    "category-08": 200,
+    "category-09": 200,
+    "category-10": 200
+  },
+  "baidu_missing": [],
+  "image_files_in_zip": 0,
+  "missing_local_hrefs": [],
+  "zip_size_bytes": 10174304
+}
